@@ -1,0 +1,5 @@
+{
+  "name": "Apiary Manager",
+  "description": "A mobile-friendly application to manage beehives in an apiary. Track hive health, population, honey production, and view statistics over time with graphical representations.",
+  "requestFramePermissions": []
+}
